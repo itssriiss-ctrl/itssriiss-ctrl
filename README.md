@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=love+you+3000+%F0%9F%92%9B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=love+you+3000+%F0%9F%92%9A" alt="Typing SVG" />
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shrishtiii-Kumariii)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shriishtti@gmail.com)
@@ -37,7 +37,8 @@
 <tr>
 <td width="60%" valign="top">
 
-# <img width="700" height="120" alt="40ca105f-59a0-404f-9278-5ea5e9bc12d4" src="https://github.com/user-attachments/assets/f5edd46f-1390-4e69-84da-4215ac47880b" />
+# <img width="700" height="120" alt="54683c9e-8c34-4382-8b43-4a9b2b0eac1b" src="https://github.com/user-attachments/assets/4cda8c85-9ab7-4e83-8407-965f195d1fb9" />
+
 
 CS student — currently in the messy, in-between phase of figuring out where I land
 Building things in **MERN** and **Java**, breaking them just as often, and slowly turning that into a portfolio worth showing.Also doing freelance design on the side 
