@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Sris;CS+student+%40+Chandigarh+University;building+in+MERN+%2B+Java;still+figuring+out+where+I+land+%F0%9F%8C%8C;love+you+3000+%F0%9F%92%9B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=love+you+3000+%F0%9F%92%9B" alt="Typing SVG" />
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shrishtiii-Kumariii)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shriishtti@gmail.com)
