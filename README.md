@@ -37,7 +37,7 @@
 <tr>
 <td width="60%" valign="top">
 
-# Hey, I'm Sris 
+# <img width="700" height="120" alt="40ca105f-59a0-404f-9278-5ea5e9bc12d4" src="https://github.com/user-attachments/assets/f5edd46f-1390-4e69-84da-4215ac47880b" />
 
 CS student — currently in the messy, in-between phase of figuring out where I land
 
