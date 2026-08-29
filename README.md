@@ -40,16 +40,12 @@
 # <img width="700" height="120" alt="40ca105f-59a0-404f-9278-5ea5e9bc12d4" src="https://github.com/user-attachments/assets/f5edd46f-1390-4e69-84da-4215ac47880b" />
 
 CS student — currently in the messy, in-between phase of figuring out where I land
-
-Building things in **MERN** and **Java**, breaking them just as often, and slowly turning that into a portfolio worth showing.
-
-Also doing freelance design on the side 
-
+Building things in **MERN** and **Java**, breaking them just as often, and slowly turning that into a portfolio worth showing.Also doing freelance design on the side 
 **currently:**
--  job hunting — SDE + analyst tracks
+-  job hunting - SDE + analyst tracks
 -  leveling up my project portfolio
 -  freelance design work
--  exploring new project ideas — this space fills up soon
+-  exploring new project ideas - this space fills up soon
 
 </td>
 <td width="40%" align="center">
