@@ -131,7 +131,7 @@ Full-stack marketplace simulation — customer cart/checkout flow + seller dashb
 <tr>
 <td width="500" valign="top">
 
-![GitHub Stats](https://github-readme-stats-s-f91f.vercel.app/api?username=itssriiss-ctrl&show_icons=true&bg_color=0a1428&title_color=75f97a&text_color=8ea3c4&icon_color=2a5ca8&border_color=2d3b55&hide_border=false)
+![Git Stats](https://github-readme-stats-s-f91f.vercel.app/api?username=itssriiss-ctrl&show_icons=true&bg_color=0a1428&title_color=75f97a&text_color=8ea3c4&icon_color=2a5ca8&border_color=2d3b55&hide_border=false)
 
 </td>
 <td width="500" valign="top">
