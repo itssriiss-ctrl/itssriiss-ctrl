@@ -75,9 +75,7 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 <tr>
 <td width="50%" valign="top">
 
-### **How I learn**<img width="767" height="891" alt="Picsart_26-08-30_19-02-24-228" src="https://github.com/user-attachments/assets/0f8b3bdf-deb4-4849-bc50-b01a18cb60da" />
-<img width="767" height="891" alt="Picsart_26-08-30_19-02-24-228" src="https://github.com/user-attachments/assets/8401a7c9-ed1f-43e8-9395-fec56f17bc44" />
-
+### **How I learn**
 
 ![LEARN](https://img.shields.io/badge/LEARN-2a5ca8?style=for-the-badge)
 ![BUILD](https://img.shields.io/badge/BUILD-1a4a85?style=for-the-badge)
@@ -94,7 +92,7 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 
 <img src="https://github.com/user-attachments/assets/ba10cc1d-57a3-4aac-935e-74a7bbe43f34" width="260"/>
 
-<img width="767" height="891" alt="Picsart_26-08-30_19-02-24-228" src="https://github.com/user-attachments/assets/f528f8a1-d0bc-4dfb-9c42-1c4dd613f628" />
+<img  src="https://github.com/user-attachments/assets/f528f8a1-d0bc-4dfb-9c42-1c4dd613f628" width="120" />
 
 </td>
 </tr>
