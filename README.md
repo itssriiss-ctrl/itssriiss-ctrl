@@ -73,21 +73,18 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="45%" valign="top">
 
 ###  how I learn
 
-<p align="center">
-<img src="https://img.shields.io/badge/LEARN-c4b5fd?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/➜-transparent?style=for-the-badge&color=none"/>
-<img src="https://img.shields.io/badge/BUILD-a78bfa?style=for-the-badge&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/BREAK-ec4899?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/➜-transparent?style=for-the-badge&color=none"/>
-<img src="https://img.shields.io/badge/UNDERSTAND-22d3ee?style=for-the-badge&logoColor=black"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/REPEAT-75f97a?style=for-the-badge&logoColor=black"/>
-</p>
+![LEARN](https://img.shields.io/badge/LEARN-2a5ca8?style=for-the-badge)
+![BUILD](https://img.shields.io/badge/BUILD-124066?style=for-the-badge)
+![BREAK](https://img.shields.io/badge/BREAK-c026d3?style=for-the-badge)
+![UNDERSTAND](https://img.shields.io/badge/UNDERSTAND-257b6c?style=for-the-badge)
+![REPEAT](https://img.shields.io/badge/REPEAT-75f97a?style=for-the-badge)
+
+*loop until it clicks 🔁*
+
 
 </td>
 <td width="40%" align="center">
