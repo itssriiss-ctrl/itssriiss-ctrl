@@ -70,26 +70,40 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 <br>
-###  How I learn
 
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-**Learn → Build → Break → Understand → Repeat.**
+###  how I learn
 
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/LEARN-c4b5fd?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/➜-transparent?style=for-the-badge&color=none"/>
+<img src="https://img.shields.io/badge/BUILD-a78bfa?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/BREAK-ec4899?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/➜-transparent?style=for-the-badge&color=none"/>
+<img src="https://img.shields.io/badge/UNDERSTAND-22d3ee?style=for-the-badge&logoColor=black"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/REPEAT-75f97a?style=for-the-badge&logoColor=black"/>
+</p>
 
-###  Side quests
+</td>
+<td width="40%" align="center">
 
-<div align="center">
+###  side quests
 
-Currently exploring the Linux rabbit hole 
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Terminal](https://img.shields.io/badge/sudo-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
-*If it works, don't touch it. If it doesn't work, now it's a learning opportunity.*
+*if it works, don't touch it.*
 
+</td>
+</tr>
+</table>
 </div>
 
 ###  Beyond code
