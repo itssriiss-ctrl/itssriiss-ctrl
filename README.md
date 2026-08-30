@@ -87,14 +87,18 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 
 
 </td>
-<td width="40%" align="center">
+<td width="10%" align="center">
 
-###  side quests
+<img width="120" height="140" alt="45691bec-fb53-48ef-8d48-fc8a574afe89" src="https://github.com/user-attachments/assets/31f29887-f75b-488b-9ce2-1f042acd9e65" />
 
+</td>
+<td width="45%" valign="top">
 
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Terminal](https://img.shields.io/badge/sudo-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
+###  Side Quests
+OS: Arch Linux
+Shell: zsh
+Status: exploring
+Rule: btw i use arch
 
 *if it works, don't touch it.*
 
