@@ -99,25 +99,22 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 </tr>
 </table>
 
-
-
-
-
-###  Beyond code
+### Beyond code
 
 <div align="center">
 
-&nbsp; Games &nbsp;·&nbsp;  &nbsp; Art & Design &nbsp;·&nbsp;  &nbsp; Literature & Writing &nbsp;·&nbsp;  &nbsp; World-Building &nbsp;·&nbsp;  &nbsp; Psychology & Human Behaviour
+Games &nbsp;·&nbsp;  Art & Design &nbsp;·&nbsp;  Literature & Writing &nbsp;·&nbsp;  World-Building &nbsp;·&nbsp;  Psychology & Human Behaviour
 
 </div>
 
-###  Featured projects
+### Featured projects
 
 <table>
 <tr>
 <td width="100%">
 
-** VillageConnect**
+**VillageConnect**
+
 Full-stack marketplace simulation — customer cart/checkout flow + seller dashboard with sales analytics.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
@@ -125,7 +122,7 @@ Full-stack marketplace simulation — customer cart/checkout flow + seller dashb
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
- [Repository](https://github.com/itssriiss-ctrl/VillageConnect)
+🔗 [Repository](https://github.com/itssriiss-ctrl/VillageConnect)
 
 </td>
 </tr>
