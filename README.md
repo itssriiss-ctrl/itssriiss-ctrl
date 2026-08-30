@@ -73,6 +73,7 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 <table>
 <tr>
 <td width="450" valign="top">
+  
 ### **How I learn**
 
 ![LEARN](https://img.shields.io/badge/LEARN-2a5ca8?style=for-the-badge)
