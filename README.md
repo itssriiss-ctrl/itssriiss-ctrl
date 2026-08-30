@@ -70,6 +70,55 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 <br>
+###  How I learn
+
+<div align="center">
+
+**Learn → Build → Break → Understand → Repeat.**
+
+</div>
+
+###  Side quests
+
+<div align="center">
+
+Currently exploring the Linux rabbit hole 
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
+
+*If it works, don't touch it. If it doesn't work, now it's a learning opportunity.*
+
+</div>
+
+###  Beyond code
+
+<div align="center">
+
+&nbsp; Games &nbsp;·&nbsp;  &nbsp; Art & Design &nbsp;·&nbsp;  &nbsp; Literature & Writing &nbsp;·&nbsp;  &nbsp; World-Building &nbsp;·&nbsp;  &nbsp; Psychology & Human Behaviour
+
+</div>
+
+###  Featured projects
+
+<table>
+<tr>
+<td width="100%">
+
+** VillageConnect**
+Full-stack marketplace simulation — customer cart/checkout flow + seller dashboard with sales analytics.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+ [Repository](https://github.com/itssriiss-ctrl/VillageConnect)
+
+</td>
+</tr>
+</table>
 
 ```
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
