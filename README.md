@@ -85,26 +85,24 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 
 *loop until it clicks 🔁*
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+###  **Side Quests**
+
+<img src="https://github.com/user-attachments/assets/ba10cc1d-57a3-4aac-935e-74a7bbe43f34" width="260"/>
 
 </td>
-<td width="10%" align="center">
+<td width="50%" align="center">
 
-<img width="120" height="140" alt="45691bec-fb53-48ef-8d48-fc8a574afe89" src="https://github.com/user-attachments/assets/31f29887-f75b-488b-9ce2-1f042acd9e65" />
-
-</td>
-<td width="45%" valign="top">
-
-###  Side Quests
-OS: Arch Linux
-Shell: zsh
-Status: exploring
-Rule: btw i use arch
-
-*if it works, don't touch it.*
+<img  src="https://github.com/user-attachments/assets/a6dc3fc4-c85a-4438-be79-9a707e45c5ac" width="120"/>
 
 </td>
 </tr>
 </table>
+</td>
+
 </div>
 
 ###  Beyond code
