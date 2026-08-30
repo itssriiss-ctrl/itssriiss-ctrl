@@ -72,9 +72,9 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 <br>
 
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="450" valign="top">
 
 ### **How I learn**
 
@@ -87,7 +87,8 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 *loop until it clicks 🔁*
 
 </td>
-<td width="50%" valign="top">
+<td width="450" valign="top">
+
 
 ### **Side Quests**
 
