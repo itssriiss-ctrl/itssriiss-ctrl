@@ -73,7 +73,6 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 <table>
 <tr>
 <td width="450" valign="top">
-
 ### **How I learn**
 
 ![LEARN](https://img.shields.io/badge/LEARN-2a5ca8?style=for-the-badge)
@@ -87,13 +86,11 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 </td>
 <td width="450" valign="top">
 
-
 ### **Side Quests**
 
 <img src="https://github.com/user-attachments/assets/ba10cc1d-57a3-4aac-935e-74a7bbe43f34" width="260"/>
 
 <img  src="https://github.com/user-attachments/assets/f528f8a1-d0bc-4dfb-9c42-1c4dd613f628" width="120" />
-
 </td>
 </tr>
 </table>
