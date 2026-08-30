@@ -69,8 +69,6 @@ Building things in **MERN** and **Java**, breaking them just as often, and slowl
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<br>
-
 
 <table>
 <tr>
