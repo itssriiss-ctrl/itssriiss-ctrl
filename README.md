@@ -106,9 +106,9 @@ Games &nbsp;·&nbsp;  Art & Design &nbsp;·&nbsp;  Literature & Writing &nbsp;·
 
 ### Featured projects
 
-<table>
+<table width="1000">
 <tr>
-<td width="100%">
+<td width="500" valign="top">
 
 **VillageConnect**
 
